@@ -19,8 +19,8 @@ End the program
 ## PROGRAM:
 ```python
 # To write a program to count the contents of the file using command line arguments.
-# Developed by: Hari Prasath. P
-# Reference number: 23005079
+# Developed by: Vinnush Kumar L S
+# Reference number: 23012349
 f = open('/content/drive/MyDrive/Colab Notebooks/Summa.txt','r')
 
 import sys
